@@ -1,1 +1,2 @@
 # Homeownership-analysis
+In this Python project, my group and I discussed the relationship between homeownership and demographic factors such as age and gender. The main file was the 2020 census file by the Federal Housing Agency, which contained information on the housing market. Also, three Txt files were essential to understanding the scope of information as they accounted for any missing values within the main file. It prompted the merging of files before we addressed our hypothesis.
